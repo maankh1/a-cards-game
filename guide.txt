@@ -1,1 +1,2 @@
 so to launch this app just replace the content of PrimitiveMain.cpp in lecture 5 with the code inside Main.cpp 
+the whole app is based on lecture 5 we took the code from lecture 5 because it runs and we added everything else
