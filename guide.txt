@@ -1,0 +1,1 @@
+so to launch this app just replace the content of PrimitiveMain.cpp in lecture 5 with the code inside Main.cpp 
