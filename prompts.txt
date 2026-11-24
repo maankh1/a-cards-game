@@ -1,0 +1,14 @@
+claude :
+so is it easier to edit this version he sent us or to make a new one because i don't know how to make a new one
+
+so in the object he gave us he made it like this so what we did is what than
+Camera camera(vec3(0.0f, 0.0f, 4.0f));
+
+so we'd have to make 2 camera objects to make it using the camera in learnOpenGL/camera.h class
+
+now what's easier to get a mattress that's already designed to be inserted in my openGL HW or to just make a rectangle mattress with some textures
+
+so hey claude as for the cards i have a canva pro subscription do you think i should ask him to make me the cards for the charcters and than import them to the Main.cpp file or what's the best approach 
+
+copilot chat bot :
+remove anything related to the light cube
